@@ -1,0 +1,54 @@
+ body{
+    width: 100%;
+ }
+    
+div{
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 48px;
+}
+
+.title{
+    background-color: #ccd5ae;
+}
+
+.list{
+    font-size: 30px;
+    padding-block: 3rem;
+}
+
+
+#lasagna{
+    background-color: #e9edc9;
+}
+
+#cake{
+    background-color: #fefae0;
+}
+
+#burrito{
+background-color: #faedcd;
+}
+
+#first{
+    background-color: #d4a373;
+    padding: 5rem 1rem;
+}
+
+#second{
+        background-color: #e9edc9;
+        padding: 7rem 1rem;
+}
+
+a:link{
+    color:orangered;
+}
+
+a:hover{
+    color:blue;
+}
